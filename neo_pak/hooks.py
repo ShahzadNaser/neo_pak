@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "neo_pak"
 app_title = "Neo Pak"
 app_publisher = "Shahzad Naser"
-app_description = "neo_pak"
+app_description = "new_pak"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "shahzadnaser1122@gmail.com"

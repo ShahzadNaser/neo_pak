@@ -1,6 +1,6 @@
 ## Neo Pak
 
-neo_pak
+new_pak
 
 #### License
 

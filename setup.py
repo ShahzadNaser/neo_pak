@@ -9,7 +9,7 @@ from neo_pak import __version__ as version
 setup(
 	name="neo_pak",
 	version=version,
-	description="neo_pak",
+	description="new_pak",
 	author="Shahzad Naser",
 	author_email="shahzadnaser1122@gmail.com",
 	packages=find_packages(),
