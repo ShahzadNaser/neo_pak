@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include neo_pak *.css
+recursive-include neo_pak *.csv
+recursive-include neo_pak *.html
+recursive-include neo_pak *.ico
+recursive-include neo_pak *.js
+recursive-include neo_pak *.json
+recursive-include neo_pak *.md
+recursive-include neo_pak *.png
+recursive-include neo_pak *.py
+recursive-include neo_pak *.svg
+recursive-include neo_pak *.txt
+recursive-exclude neo_pak *.pyc
